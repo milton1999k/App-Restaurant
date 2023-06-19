@@ -7,7 +7,7 @@ An application for a restaurant would be a useful tool for managing and maintain
 
 -Login
 ============= 
-[![login.png](https://i.postimg.cc/mk3KrD2j/login.png)](https://postimg.cc/q6R1bpK6)
+[![ss.png](https://i.postimg.cc/02kcRZmh/ss.png)](https://postimg.cc/hhY9VL20)
 
 -First Page
 =============
