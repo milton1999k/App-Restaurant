@@ -2,7 +2,8 @@
 Application to point of sale 
 Description 
 An application for a restaurant would be a useful tool for managing and maintaining better control over products and orders. This application would be designed to assist restaurant staff in keeping an organized and detailed record of products as well as customer orders.
-Img 
+=============
+
 
 -Login
 =============
